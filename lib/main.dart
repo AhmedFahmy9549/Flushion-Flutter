@@ -35,6 +35,7 @@ class ScreensController extends StatelessWidget {
   Widget build(BuildContext context) {
     final user = Provider.of<UserProvider>(context);
         //check Status
+
     switch (user.status) {
       case Status.UnInitialized:
         print("Status From Main = ${user.status}");

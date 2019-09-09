@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "249190886829",
+    "firebase_url": "https://myecommerce-aff65.firebaseio.com",
+    "project_id": "myecommerce-aff65",
+    "storage_bucket": "myecommerce-aff65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249190886829:android:9adb542d582751dc",
+        "android_client_info": {
+          "package_name": "asdas.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249190886829-5t36rqqkeerasgqkcvtirq46sglkmg3f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWHVVzcEwjYGvmqEUP7uPBt294xY8vkQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "249190886829-5t36rqqkeerasgqkcvtirq46sglkmg3f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249190886829:android:155eb70458205170",
+        "android_client_info": {
+          "package_name": "com.fahmy.my_ecommerce_admin_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249190886829-5t36rqqkeerasgqkcvtirq46sglkmg3f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWHVVzcEwjYGvmqEUP7uPBt294xY8vkQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "249190886829-5t36rqqkeerasgqkcvtirq46sglkmg3f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249190886829:android:c6c2eebd081e05b1",
+        "android_client_info": {
+          "package_name": "com.fahmy.my_ecommerce_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249190886829-0j4j51c7j8ukvu7jdfte70np77sk89uc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fahmy.my_ecommerce_app",
+            "certificate_hash": "2b15c175e810740c17345bbbae6abc12f30e286a"
+          }
+        },
+        {
+          "client_id": "249190886829-5t36rqqkeerasgqkcvtirq46sglkmg3f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWHVVzcEwjYGvmqEUP7uPBt294xY8vkQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "249190886829-5t36rqqkeerasgqkcvtirq46sglkmg3f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

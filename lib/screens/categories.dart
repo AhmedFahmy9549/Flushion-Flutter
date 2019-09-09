@@ -9,6 +9,7 @@ import 'package:provider/provider.dart';
 import 'cart.dart';
 
 class CategoriesPage extends StatefulWidget {
+
   final String catgName;
 
   const CategoriesPage(this.catgName);
